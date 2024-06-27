@@ -2,8 +2,8 @@
 Uses some CSS, HTML, React, and Javascript
 
 Usage:
-npm install
-npm run build
+npm install/
+npm run build/
 npm run start
 
 
